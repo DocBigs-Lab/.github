@@ -38,7 +38,7 @@ Kurz gesagt: Wir bauen die Brücken zwischen Lötkolben, Mikrocontrollern und de
 Hier laufen die Fäden zusammen. So aktiv sind die Projekte im Lab aktuell:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/org?username=DocBig-Projects&theme=tokyonight" alt="DocBig's Lab Stats" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/org?username=DocBigs-Lab&theme=tokyonight" alt="DocBig's Lab Stats" width="60%" />
 </p>
 
 ---

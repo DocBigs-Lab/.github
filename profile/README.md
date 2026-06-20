@@ -1,3 +1,5 @@
+# DocBigs-Lab
+
 # 🔬 Willkommen in DocBig's Lab!
 
 <p align="left">
@@ -8,12 +10,14 @@
 ---
 
 ### 🛠️ Wer wir sind & was wir tun
-**DocBig's Lab** ist das offizielle Zuhause für unsere Hardware-Experimente, Code-Basteleien und Smart-Home-Projekte. Wir haben es uns zur Aufgabe gemacht, Technik, die eigentlich "stumm" oder isoliert ist, zum Sprechen zu bringen – am liebsten via **MQTT** direkt hinein in **Home Assistant**.
+**DocBig's Lab** ist das offizielle Zuhause für unsere Hardware-Experimente, Code-Basteleien und Smart-Home-Projekte. 
+
+Wir haben es uns zur Aufgabe gemacht, Technik, die eigentlich "stumm" oder isoliert ist, zum Sprechen zu bringen – am liebsten via **MQTT** direkt hinein ins **Smart Home** (bevorzugt **Home Assistant**).
 
 Kurz gesagt: Wir bauen die Brücken zwischen Lötkolben, Mikrocontrollern und deinem Dashboard!
 
 * **📺 HDMI-CEC-Gateways:** Weil Fernseher gefälligst das tun sollten, was Home Assistant ihnen sagt.
-* **📸 Optische Display-Leser:** Wenn das Gerät kein API hat, klemmen wir halt eine ESP-Kamera davor und lesen das Display aus. 
+* **📸 Optische Display-Leser:** Wenn das Gerät kein API hat, klemmen wir halt eine ESP-Kamera davor und lesen das Display damit aus. 
 * **☀️ Solar-Dashboards:** Energieflüsse in Echtzeit auf schicken kleinen Displays (CYD) überwachen.
 
 ---
@@ -38,7 +42,7 @@ Kurz gesagt: Wir bauen die Brücken zwischen Lötkolben, Mikrocontrollern und de
 Hier laufen die Fäden zusammen. So aktiv sind die Projekte im Lab aktuell:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/org?username=DocBigs-Lab&theme=tokyonight" alt="DocBig's Lab Stats" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/org?username=DocBig-Projects&theme=tokyonight" alt="DocBig's Lab Stats" width="60%" />
 </p>
 
 ---

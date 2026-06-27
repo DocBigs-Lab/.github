@@ -37,12 +37,12 @@ Kurz gesagt: Wir bauen die Brücken zwischen Lötkolben, Mikrocontrollern und de
 
 ---
 
-### 📊 Die Labor-Statistiken
+### 📊 Das Labor
 
 Hier laufen die Fäden zusammen. So aktiv sind die Projekte im Lab aktuell:
 
 <p align="center">
-  <[https://docbigs-lab.de](https://docbigs-lab.de/) />
+  <a href="https://docbigs-lab.de/">docbigs-lab.de</a>
 </p>
 
 ---
